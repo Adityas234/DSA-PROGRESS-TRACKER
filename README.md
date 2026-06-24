@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0349-intersection-of-two-arrays) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0220-contains-duplicate-iii) |
 ## Design
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0220-contains-duplicate-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -69,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0128-longest-consecutive-sequence) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->

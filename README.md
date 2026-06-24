@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0724-find-pivot-index) |
 ## Prefix Sum
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -53,4 +56,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0349-intersection-of-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->

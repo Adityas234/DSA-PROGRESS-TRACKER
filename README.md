@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1207-unique-number-of-occurrences) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0220-contains-duplicate-iii) |
+| [0242-valid-anagram](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -85,4 +87,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

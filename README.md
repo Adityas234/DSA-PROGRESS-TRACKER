@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1207-unique-number-of-occurrences) |
 ## Divide and Conquer
@@ -88,4 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

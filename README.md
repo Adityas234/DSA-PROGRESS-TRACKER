@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0349-intersection-of-two-arrays) |
 ## Union-Find
 |  |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0220-contains-duplicate-iii) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->

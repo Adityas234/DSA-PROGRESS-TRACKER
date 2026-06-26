@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1207-unique-number-of-occurrences) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0220-contains-duplicate-iii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Design
 |  |
 | ------- |

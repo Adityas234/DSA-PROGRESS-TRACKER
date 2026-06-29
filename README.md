@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0349-intersection-of-two-arrays) |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0278-first-bad-version) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

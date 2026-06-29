@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0209-minimum-size-subarray-sum) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0704-binary-search) |

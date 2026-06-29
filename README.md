@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1004-max-consecutive-ones-iii) |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0014-longest-common-prefix) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

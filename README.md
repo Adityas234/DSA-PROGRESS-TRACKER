@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1288-remove-covered-intervals](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1288-remove-covered-intervals) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0349-intersection-of-two-arrays) |
+| [1288-remove-covered-intervals](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1288-remove-covered-intervals) |
 ## Two Pointers
 |  |
 | ------- |

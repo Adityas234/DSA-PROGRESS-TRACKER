@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0567-permutation-in-string) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0234-palindrome-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |

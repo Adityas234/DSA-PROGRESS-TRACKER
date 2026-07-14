@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0410-split-array-largest-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Binary Search
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0069-sqrtx) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
 |  |
@@ -263,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->

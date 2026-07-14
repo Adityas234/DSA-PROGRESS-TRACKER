@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0141-linked-list-cycle) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0023-merge-k-sorted-lists) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
@@ -274,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

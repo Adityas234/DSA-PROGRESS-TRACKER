@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0567-permutation-in-string) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1207-unique-number-of-occurrences](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Divide and Conquer
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0349-intersection-of-two-arrays) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1288-remove-covered-intervals) |
 ## Two Pointers
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0226-invert-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -303,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |

@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0226-invert-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0543-diameter-of-binary-tree) |
 ## Graph Theory
 |  |

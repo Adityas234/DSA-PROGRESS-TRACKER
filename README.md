@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0567-permutation-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0410-split-array-largest-sum) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
 | ------- |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Doubly-Linked List
 |  |
 | ------- |

@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0876-middle-of-the-linked-list) |
+| [1367-linked-list-in-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1367-linked-list-in-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1367-linked-list-in-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |

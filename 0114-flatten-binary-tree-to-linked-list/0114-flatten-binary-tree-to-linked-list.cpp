@@ -11,34 +11,39 @@
  */
 class Solution {
 private:
-    vector<int> preorderTraversal(TreeNode* root) {
-        if(root == nullptr){
-            return{};
-        }
-        vector<int> ans;
-        ans.push_back(root->val);
+    // vector<int> preorderTraversal(TreeNode* root) {
+    //     if(root == nullptr){
+    //         return{};
+    //     }
+    //     vector<int> ans;
+    //     ans.push_back(root->val);
         
-        vector<int> leftres = preorderTraversal(root->left);
-        ans.insert(ans.end(), leftres.begin(), leftres.end());
-        vector<int> rightres = preorderTraversal(root->right);
-        ans.insert(ans.end(), rightres.begin(), rightres.end());
-        return ans;
-    }
+    //     vector<int> leftres = preorderTraversal(root->left);
+    //     ans.insert(ans.end(), leftres.begin(), leftres.end());
+    //     vector<int> rightres = preorderTraversal(root->right);
+    //     ans.insert(ans.end(), rightres.begin(), rightres.end());
+    //     return ans;
+    // }
 public:
     void flatten(TreeNode* root) {
 
         if(root == NULL){
             return;
         }
-        vector<int>tempres;
+        TreeNode* curr = root;
 
-        tempres = preorderTraversal(root);
-        TreeNode* temp = root;
-        temp->val = tempres[0];
-        for(int i = 1;i<tempres.size();i++){
-            temp->left = NULL;
-            temp->right= new TreeNode(tempres[i]);
-            temp = temp->right;
+        while(curr != NULL){
+            if(curr->left!= NULL){
+                TreeNode* prev = curr->left;
+
+                while(prev->right!=NULL){
+                    prev = prev->right;
+                }
+                prev->right = curr->right;
+                curr->right = curr->left;
+                curr->left = NULL;
+            }
+            curr = curr->right;
         }
     }
 };

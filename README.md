@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1367-linked-list-in-binary-tree) |
 ## Graph Theory
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0098-validate-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0700-search-in-a-binary-search-tree) |
 ## Counting Sort
 |  |
 | ------- |

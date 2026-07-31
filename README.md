@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0209-minimum-size-subarray-sum) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0112-path-sum) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0112-path-sum) |
@@ -425,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0530-minimum-absolute-difference-in-bst) |

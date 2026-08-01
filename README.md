@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0560-subarray-sum-equals-k) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Binary Search
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0069-sqrtx) |
+| [0486-predict-the-winner](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0486-predict-the-winner) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0486-predict-the-winner) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -462,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-fix-names-in-a-table](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1757-recyclable-and-low-fat-products) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

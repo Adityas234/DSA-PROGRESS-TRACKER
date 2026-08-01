@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0303-range-sum-query-immutable) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Sorting
 |  |
 | ------- |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0023-merge-k-sorted-lists) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1367-linked-list-in-binary-tree) |
 ## Graph Theory
@@ -439,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Counting Sort
 |  |
 | ------- |
@@ -470,4 +475,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0486-predict-the-winner) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->

@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0486-predict-the-winner) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0349-intersection-of-two-arrays) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1288-remove-covered-intervals) |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0347-top-k-frequent-elements) |
 ## Ordered Set
 |  |
 | ------- |
@@ -208,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0387-first-unique-character-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/3312-sorted-gcd-pair-queries) |
@@ -285,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/1046-last-stone-weight) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -489,4 +496,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

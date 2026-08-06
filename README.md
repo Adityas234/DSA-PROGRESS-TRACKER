@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Sorting
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0349-intersection-of-two-arrays) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0567-permutation-in-string) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -493,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Adityas234/DSA-PROGRESS-TRACKER/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
